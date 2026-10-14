@@ -21,8 +21,8 @@ Of the customers we acquire each month, how many come back, and when? Is retenti
 - Revenue retention is not covered here (a natural extension using `order_items`).
 
 ## Findings
-_Fill in after running. Example structure:_
-- Overall repeat rate: **X%**
+
+- Overall repeat rate: 3.040000000000 %
 - Month-1 retention averages **X%**, month-6 **X%**
 - Notable cohort differences: ...
 
